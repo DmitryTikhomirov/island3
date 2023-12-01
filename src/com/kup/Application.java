@@ -8,6 +8,6 @@ public class Application {
         SimulationStarter simulationStarter;
         simulationStarter= new SimulationStarter();
         simulationStarter.start();
-        System.out.println("Start");
+        System.out.println("Start start");
     }
 }

@@ -1,0 +1,6 @@
+deer:
+  weight: 300
+  maxOnCare: 20
+  speed: 4
+  enoughAmountOfFood: 50
+  unicode: \uD83E\uDD8C
